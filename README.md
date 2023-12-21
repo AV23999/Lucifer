@@ -62,7 +62,7 @@
 
     /* Responsive image styles */
     img.responsive {
-      max-width: 60%; /* Adjust the width as needed */
+      max-width: 40%; /* Adjust the width as needed */
       height: auto;
       margin: 20px 0; /* Add some space around the images */
     }
