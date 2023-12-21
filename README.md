@@ -23,7 +23,7 @@
     }
 
     h1 {
-      font-size: 4em;
+      font-size: 3em;
       text-transform: uppercase;
       letter-spacing: 0.1em;
       text-shadow: 2px 2px 4px #000; /* Text shadow for a fiery effect */
@@ -62,7 +62,7 @@
 
     /* Responsive image styles */
     img.responsive {
-      max-width: 30%; /* Adjust the width as needed */
+      max-width: 35%; /* Adjust the width as needed */
       height: auto;
       margin: 20px 0; /* Add some space around the images */
     }
