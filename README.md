@@ -29,7 +29,6 @@
       text-shadow: 2px 2px 4px #000; /* Text shadow for a fiery effect */
     }
 
-    /* Hide the audio element */
     audio {
       display: none;
     }
@@ -69,13 +68,17 @@
   </div>
 </div>
 
+<h1>Welcome to Hell</h1>
+
+<!-- Inserted image between the titles -->
+<img src="DALL·E 2023-12-21 16.16.53 - Transform the image of a cloaked figure with a scythe to appear darker and more fierce, as if it is looking directly at the viewer with an ominous and.png" alt="Ominous Figure" style="max-width:100%; height:auto;">
+
+<h1>You are now entering Hell</h1>
+
 <audio autoplay loop>
   <source src="lucifer_main_beat.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-
-<h1>Welcome to Hell</h1>
-<!-- Additional content can go here -->
 
 <script>
   // When the user loads the page, show the modal for 5 seconds
@@ -90,4 +93,5 @@
 
 </body>
 </html>
+
 
