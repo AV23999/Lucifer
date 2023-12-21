@@ -82,7 +82,6 @@
   <source src="lucifer_main_beat.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
-</p>
 <p class="p1"><h1>Welcome to Hell</h1></p>
 <p class="p1">
 <p class="p1"></p>
