@@ -9,7 +9,12 @@
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
     p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
-  </style>
+ 
+audio {
+            display: none;
+        } 
+
+ </style>
 <body>
 
 <audio autoplay loop controls>
