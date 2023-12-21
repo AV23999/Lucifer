@@ -23,7 +23,7 @@
     }
 
     h1 {
-      font-size: 3em;
+      font-size: 2em;
       text-transform: uppercase;
       letter-spacing: 0.1em;
       text-shadow: 2px 2px 4px #000; /* Text shadow for a fiery effect */
