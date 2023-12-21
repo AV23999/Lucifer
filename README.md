@@ -9,11 +9,31 @@
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
     p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
- 
+
+ .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgb(0, 0, 0);
+            background-color: rgba(0, 0, 0, 0.9);
+        }
+                .modal-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            width: 80%;
+        }
+
 audio {
             display: none;
         } 
-
+        
  </style>
 <body>
 
@@ -21,6 +41,11 @@ audio {
   <source src="lucifer_main_beat.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
+ <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <img src="wp2858331.jpg" alt="Welcome Image" style="width:100%;">
+        </div>
 
 <p class="p1">
 <p class="p1"><html lang="en">
