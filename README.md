@@ -1,91 +1,94 @@
 # Lucifer
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2299.4">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
-    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome to Hell</title>
+  <style>
+    body {
+      background-color: #300; /* Dark red background */
+      color: #f55; /* Fiery text color */
+      font-family: 'Times New Roman', serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      background-image: url('wp10055748-dark-hell-wallpapers.jpg'); /* A thematic background image */
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
 
-audio {
-            display: none;
-        } 
-        
- </style>
+    h1 {
+      font-size: 4em;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      text-shadow: 2px 2px 4px #000; /* Text shadow for a fiery effect */
+    }
+
+    /* Hide the audio element */
+    audio {
+      display: none;
+    }
+
+    /* Pop-up modal styles */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgb(0, 0, 0);
+      background-color: rgba(0, 0, 0, 0.9);
+    }
+
+    .modal-content {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 80%;
+    }
+
+    /* Show the modal for 5 seconds */
+    .show-modal {
+      display: block;
+    }
+  </style>
+</head>
 <body>
 
-<audio autoplay loop controls>
+<div id="popupModal" class="modal">
+  <div class="modal-content">
+    <img src="wp2858331.jpg" alt="Entering Hell" style="width:100%; height:auto;">
+  </div>
+</div>
+
+<audio autoplay loop>
   <source src="lucifer_main_beat.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
+<h1>Welcome to Hell</h1>
+<!-- Additional content can go here -->
 
-<p class="p1">
-<p class="p1"><html lang="en">
-<p class="p1">
-<p class="p1"><meta charset="UTF-8"></p>
-<p class="p1"><meta name="viewport" content="width=device-width, initial-scale=1.0"></p>
-<p class="p1"><title>Welcome to Hell</title></p>
-<p class="p1">
-<style>
-  body {
-    background-color: #300; /* Dark red background */
-    color: #f55; /* Fiery text color */
-    font-family: 'Times New Roman', serif;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    background-image: url('wp10055748-dark-hell-wallpapers.jpg'); /* A thematic background image */
-    background-repeat: no-repeat;
-    background-size: cover;
-  }
+<script>
+  // When the user loads the page, show the modal for 5 seconds
+  window.onload = function() {
+    var modal = document.getElementById('popupModal');
+    modal.classList.add('show-modal');
+    setTimeout(function() {
+      modal.classList.remove('show-modal');
+    }, 5000);
+  };
+</script>
 
-  h1 {
-    font-size: 4em;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    text-shadow: 2px 2px 4px #000; /* Text shadow for a fiery effect */
-  }
-</p>
-<p class="p1"><span class="Apple-converted-space">  </span>body {</p>
-<p class="p1"><span class="Apple-converted-space">    </span>background-color: #300;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>color: #f55;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>font-family: 'Times New Roman', serif;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>text-align: center;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>margin: 0;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>padding: 0;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>height: 100vh;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>display: flex;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>justify-content: center;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>align-items: center;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>flex-direction: column;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>background-image: url('devil-theme-background.jpg');</p>
-<p class="p1"><span class="Apple-converted-space">    </span>background-repeat: no-repeat;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>background-size: cover;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">  </span>h1 {</p>
-<p class="p1"><span class="Apple-converted-space">    </span>font-size: 4em;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>text-transform: uppercase;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>letter-spacing: 0.1em;</p>
-<p class="p1"><span class="Apple-converted-space">    </span>text-shadow: 2px 2px 4px #000;</p>
-<p class="p1"><span class="Apple-converted-space">  </span>}</p>
-<p class="p2"><br></p>
-<p class="p1"><span class="Apple-converted-space">  </span>/* Add more styles for other elements as needed */</p>
-<p class="p1"></style></p>
-<p class="p1">
-<p class="p1"><body>
-
-<p class="p1"><h1>Welcome to Hell</h1></p>
-<p class="p1">
-<p class="p1"></p>
-<p class="p1"></p>
+</body>
+</html>
 
