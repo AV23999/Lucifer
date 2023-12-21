@@ -1,1 +1,93 @@
 # Lucifer
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299.4">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
+  </style>
+</head>
+<body>
+
+<audio autoplay loop controls>
+  <source src="lucifer_main_beat.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<p class="p1"><!DOCTYPE html></p>
+<p class="p1"><html lang="en"></p>
+<p class="p1"><head></p>
+<p class="p1"><meta charset="UTF-8"></p>
+<p class="p1"><meta name="viewport" content="width=device-width, initial-scale=1.0"></p>
+<p class="p1"><title>Welcome to Hell</title></p>
+<p class="p1">
+<style>
+  body {
+    background-color: #300; /* Dark red background */
+    color: #f55; /* Fiery text color */
+    font-family: 'Times New Roman', serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('wp10055748-dark-hell-wallpapers.jpg'); /* A thematic background image */
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  h1 {
+    font-size: 4em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    text-shadow: 2px 2px 4px #000; /* Text shadow for a fiery effect */
+  }
+</p>
+<p class="p1"><span class="Apple-converted-space">  </span>body {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background-color: #300;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>color: #f55;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-family: 'Times New Roman', serif;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>text-align: center;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>margin: 0;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>padding: 0;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>height: 100vh;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>display: flex;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>justify-content: center;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>align-items: center;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>flex-direction: column;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background-image: url('devil-theme-background.jpg');</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background-repeat: no-repeat;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>background-size: cover;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>h1 {</p>
+<p class="p1"><span class="Apple-converted-space">    </span>font-size: 4em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>text-transform: uppercase;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>letter-spacing: 0.1em;</p>
+<p class="p1"><span class="Apple-converted-space">    </span>text-shadow: 2px 2px 4px #000;</p>
+<p class="p1"><span class="Apple-converted-space">  </span>}</p>
+<p class="p2"><br></p>
+<p class="p1"><span class="Apple-converted-space">  </span>/* Add more styles for other elements as needed */</p>
+<p class="p1"></style></p>
+<p class="p1"></head></p>
+<p class="p1"><body>
+
+<audio autoplay loop controls>
+  <source src="lucifer_main_beat.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+</p>
+<p class="p1"><h1>Welcome to Hell</h1></p>
+<p class="p1"><!-- Additional content can go here --></p>
+<p class="p1"></body></p>
+<p class="p1"></html></p>
+</body>
+</html>
