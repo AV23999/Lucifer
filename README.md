@@ -75,7 +75,7 @@
 <p class="p2"><br></p>
 <p class="p1"><span class="Apple-converted-space">  </span>/* Add more styles for other elements as needed */</p>
 <p class="p1"></style></p>
-<p class="p1"></head></p>
+<p class="p1">
 <p class="p1"><body>
 
 <audio autoplay loop controls>
