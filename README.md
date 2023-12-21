@@ -10,7 +10,6 @@
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica}
     p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica; min-height: 14.0px}
   </style>
-</head>
 <body>
 
 <audio autoplay loop controls>
@@ -85,7 +84,7 @@
 </audio>
 </p>
 <p class="p1"><h1>Welcome to Hell</h1></p>
-<p class="p1"><!-- Additional content can go here --></p>
-<p class="p1"></body></p>
-<p class="p1"></html></p>
+<p class="p1">
+<p class="p1"></p>
+<p class="p1"></p>
 
