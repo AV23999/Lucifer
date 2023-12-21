@@ -58,6 +58,10 @@
     .show-modal {
       display: block;
     }
+ img.responsive {
+      max-width: 100%;
+      height: auto;
+    }
   </style>
 </head>
 <body>
