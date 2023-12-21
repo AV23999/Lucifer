@@ -18,9 +18,9 @@
   Your browser does not support the audio element.
 </audio>
 
-<p class="p1"><!DOCTYPE html></p>
-<p class="p1"><html lang="en"></p>
-<p class="p1"><head></p>
+<p class="p1">
+<p class="p1"><html lang="en">
+<p class="p1">
 <p class="p1"><meta charset="UTF-8"></p>
 <p class="p1"><meta name="viewport" content="width=device-width, initial-scale=1.0"></p>
 <p class="p1"><title>Welcome to Hell</title></p>
@@ -88,5 +88,4 @@
 <p class="p1"><!-- Additional content can go here --></p>
 <p class="p1"></body></p>
 <p class="p1"></html></p>
-</body>
-</html>
+
