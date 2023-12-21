@@ -74,6 +74,9 @@
 <img src="DALL·E 2023-12-21 16.16.53 - Transform the image of a cloaked figure with a scythe to appear darker and more fierce, as if it is looking directly at the viewer with an ominous and.png" alt="Ominous Figure" style="max-width:100%; height:auto;">
 
 <h1>You are now entering Hell</h1>
+<img src="DALL·E 2023-12-21 16.05.00 - A darker, more intense version of Hell's Gate opening, featuring ominous dark colors and sinister creatures. The gate is a foreboding structure with s.png" alt="Hell's Gate" style="max-width:100%; height:auto;">
+
+<audio autoplay loop>
 
 <audio autoplay loop>
   <source src="lucifer_main_beat.mp3" type="audio/mpeg">
